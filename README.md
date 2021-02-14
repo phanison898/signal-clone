@@ -24,8 +24,8 @@ In-Progress ...
 - React-Native
 - React hooks
 - React Router
+- React Native Elements
 - Redux
-- Material UI
 - Flexbox
 - Firebase
   - Google authentication
