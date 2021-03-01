@@ -15,7 +15,7 @@ Re-Building **Signal** Native (iOS & Android) App using **`Expo`** , **`React-Na
 
 ### Status
 
-In-Progress ...
+🚧 Work in progress
 
 ### Tech using
 
